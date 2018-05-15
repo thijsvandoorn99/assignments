@@ -7,3 +7,5 @@ Assignment week 4:
 https://github.com/thijsvandoorn99/assignments/blob/master/assignment4-checkpoint.ipynb
 Assignment week 6:
 https://github.com/thijsvandoorn99/assignments/blob/master/Graded_assignment1-checkpoint.ipynb
+Assignment week 7:
+https://github.com/thijsvandoorn99/assignments/blob/master/Graded_assignment_2-checkpoint.ipynb
